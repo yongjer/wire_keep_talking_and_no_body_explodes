@@ -1,0 +1,6 @@
+[package]
+name = "wire_keep_talking_and_no_body_explodes"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
